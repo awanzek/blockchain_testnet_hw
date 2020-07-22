@@ -84,7 +84,7 @@ Important information to note here is that we created a network with 2 nodes tha
 
     Initialize Node 2
     
-    *"../blockchain-tools/geth init testnet18.json --datadir node2"*
+    *../blockchain-tools/geth init testnet18.json --datadir node2*
 
     ![initialize_node2](./screenshots/initialize_node2.png)
 
